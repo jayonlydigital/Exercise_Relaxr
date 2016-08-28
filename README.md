@@ -7,4 +7,4 @@ This week is about more complex CSS topics, including floats and positioning ele
 
 __Main project and homework:__ Relaxr Landing Page. This web project has 2 parts. This week start building a single column layout.
 
-![](Assignment/starter_code/images/relaxr_landing.jpg)
+![](relaxr_landing.jpg)
