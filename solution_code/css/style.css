@@ -77,6 +77,7 @@ header {
   height: 700px;
   background: url(../images/header_bg.jpg) no-repeat top center #131e27;
   padding-top: 32px;
+  background-size: cover;
 }
 
 header .logo {
@@ -128,6 +129,7 @@ h3 {
   background: url(../images/testimonial_bg.jpg) no-repeat top center #071324;
   padding: 70px 0 70px;
   color: #fff;
+  background-size: cover;
 }
 blockquote {
   font-size: 36px;
